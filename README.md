@@ -10,6 +10,7 @@ gem install rubocop
 # install needed software
 brew tap caskroom/cask
 brew cask install iterm2 atom slack
+apm install minimap linter linter-rubocop linter-flake8 language-ini
 
 # install Adobe Source Code Pro font
 mkdir __temp
